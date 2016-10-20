@@ -1,0 +1,22 @@
+{
+  "name": "objectdb",
+  "version": "1.0.0",
+  "description": "An object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianvoe/objectdb.git"
+  },
+  "keywords": [
+    "object"
+  ],
+  "author": "Brian Voelker <brian@webiswhatido.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianvoe/objectdb/issues"
+  },
+  "homepage": "https://github.com/brianvoe/objectdb#readme"
+}
