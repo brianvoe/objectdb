@@ -1,4 +1,4 @@
-# objectDB
+# objectDB ![Build Status](https://travis-ci.org/brianvoe/objectdb.svg?branch=master)
 objectDB is an open-source in memory javascript database inspired by vanillajs. Designed to help you put stuff in an object.
 
 ## Features
@@ -55,3 +55,6 @@ No
 
 ## Contributing
 Why?
+
+## Copyright
+Steal it! Take it all for your own.
